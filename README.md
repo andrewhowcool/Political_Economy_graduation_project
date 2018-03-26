@@ -1,4 +1,4 @@
-# Political_Economy_graduation_project
+# stock project
 
 
 資料來源：http://mops.twse.com.tw/mops/web/t163sb04

@@ -1,4 +1,4 @@
-# stock project
+# intersection of stock's growing features
 
 
 資料來源：http://mops.twse.com.tw/mops/web/t163sb04
